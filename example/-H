@@ -1,0 +1,14 @@
+HTTP/1.1 404 Not Found
+Date: Fri, 06 Jan 2023 04:29:11 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 225
+Connection: keep-alive
+Server: APISIX/3.1.0
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>openresty</center>
+<p><em>Powered by <a href="https://apisix.apache.org/">APISIX</a>.</em></p></body>
+</html>
